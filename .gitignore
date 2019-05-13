@@ -1,0 +1,32 @@
+### IntelliJ IDEA ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.idea/libraries/message_object.xml
+.idea
+*.iws
+*.iml
+*.ipr
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+#Eclipse
+.project/*
+.settings/*
+.classpath
+
+#Mac
+.DS_Store
